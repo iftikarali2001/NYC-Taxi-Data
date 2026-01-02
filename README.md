@@ -89,6 +89,7 @@ Taxi zone boundaries are taken from the official TLC taxi zone shapefile provide
 ## Repository Structure
 
 ```
+Project_NYC
 ├── data/              # shape files datasets
 ├── notebooks/         # Jupyter notebooks with full analysis
 ├── Images/            # Saved plots and visualisations
